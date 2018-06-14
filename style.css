@@ -1,0 +1,15 @@
+#new-game-button{
+    width: 20%;
+    color: orange;
+}
+#hit-button{
+    color: green;
+    width: 10%;
+}
+#stay-button{
+    color: red;
+    width: 10%;
+}
+#text-area{
+    color: darkgreen;
+}
